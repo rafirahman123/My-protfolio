@@ -1,0 +1,67 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+background-color: #2c87f0;
+}
+.banner-column{
+background-color: #ffffff;
+}
+.about-container{
+    background-color: #00BDBD;
+}
+ .education-container{
+    background-color: white;
+} 
+.textcolor{
+    color:#00BFFF ;
+}
+.color-type{
+    background-color: #00BFFF;
+}
+
+.circle{
+    background-color:#00BFFF ;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+.project-container{
+ background-color: #00BFFF;   
+}
+.card-body{
+    
+   border: 2px solid black;
+}
+.navbar{
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.form-container{
+    background-color: #474D5D;
+}
+.inner-form{
+    background-color: #585F73;
+}
+
+.footer{
+    background-color:#00BFFF ;
+}
+
+.circlenew{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:white ;
+    font-size: 40px;
+    text-align: center;
+    color: #00BFFF;
+}
+
+.circlenew:hover{
+    background-color: #585F73;
+}
+
